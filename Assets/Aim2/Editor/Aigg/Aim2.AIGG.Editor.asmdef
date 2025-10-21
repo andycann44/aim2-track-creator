@@ -1,0 +1,5 @@
+{
+  "name": "Aim2.AIGG.Editor",
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}
